@@ -1,6 +1,6 @@
 # Wedding-Planner-and-Event-Management-System
 
-Introduction
+Introduction:
 
 Event Management is a project management to the creation and development of large-scale events such as weddings, conferences, ceremonies, formal parties etc. Event Management relief the pressure of customer let them enjoy their program properly.
  
