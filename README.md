@@ -61,6 +61,4 @@ The following activities occur in this project:
 
 
 
-Conclusion: 
 
-In future we can solve our mismanagement and organize the software flawlessly.
